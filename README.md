@@ -222,6 +222,7 @@ _SAE J2534 Standard_
 
 * [socanui](https://github.com/miwagner/socanui) - SocketCAN User Interface for the Terminal.
 * [canscope](https://github.com/OlegShishlyannikov/canscope.git) - CAN bus inspection and reverse-engineering tool.
+* [canair](https://github.com/philipkocanda/canair) - CLI/TUI for reverse engineering CAN/UDS diagnostics over-the-air using a WiCAN or a generic ELM327 dongle.
 
 
 ### Python Tools
